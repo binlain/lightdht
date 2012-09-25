@@ -1,3 +1,7 @@
+This is just a fork implementing some bugfixes.
+
+Original description:
+
 LightDHT - A lightweight python implementation of the Bittorrent distributed
            hashtable.
 
