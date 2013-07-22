@@ -1,3 +1,13 @@
+WARNING: Outdated
+=======
+
+The bugs have by now been fixed in the original implementation, this fork is now outdated and shouldn't be used anymore!
+
+Use [this](https://github.com/drxzcl/lightdht) instead.
+
+Info
+=====
+
 This is just a fork implementing some bugfixes.
 
 Original description:
